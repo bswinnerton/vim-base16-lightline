@@ -18,11 +18,11 @@ As with any other theme, this can be installed with any of the popular plugin
 managers:
 
  - [vim-plug](https://github.com/junegunn/vim-plug)
-     - `Plug 'daviesjamie/vim-base16-lightline'`
+     - `Plug 'bswinnerton/vim-base16-lightline'`
  - [Vundle](https://github.com/VundleVim/Vundle.vim)
-     - `Bundle 'daviesjamie/vim-base16-lightline'`
+     - `Bundle 'bswinnerton/vim-base16-lightline'`
  - [Pathogen](https://github.com/tpope/vim-pathogen)
-     - `git clone https://github.com/daviesjamie/vim-base16-lightline ~/.vim/bundle/vim-base16-lightline`
+     - `git clone https://github.com/bswinnerton/vim-base16-lightline ~/.vim/bundle/vim-base16-lightline`
 
 You can also install the plugin manually, by copying the files into your
 `~/.vim` directory.
